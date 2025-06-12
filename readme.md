@@ -1,5 +1,6 @@
+```
 https://github.com/DeKa3331/haskell/blob/main/wojewodztwa.md
-
+```
 ```
 --łaczenie par bez powrótrzeń
 pary :: [a] -> [(a, a)]
